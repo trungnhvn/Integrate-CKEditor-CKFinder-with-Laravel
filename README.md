@@ -13,3 +13,7 @@ Installation Guide:
       <script>
         CKEDITOR.replace( 'editor1' );
       </script>
+      
+#4 In case of permission error, please run command from terminal:
+      
+      chmod -R 777 public/userfiles
