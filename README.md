@@ -2,6 +2,7 @@
 Add CKFinder to CKEditor to Laravel5 for image file management.
 
 Installation Guide:
+
 #1: Download then extract two folder namely CKEditor and CKFinder
 
 #2. Copy the 2 folders to public directory of Laravel project
