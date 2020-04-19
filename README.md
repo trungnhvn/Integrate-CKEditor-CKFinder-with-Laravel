@@ -1,5 +1,5 @@
 # Integrate-CKEditor-CKFinder-with-Laravel
-Add CKFinder to CKEditor to Laravel5 for image file management.
+Add CKFinder to CKEditor to Laravel for image file management.
 
 Installation Guide:
 
