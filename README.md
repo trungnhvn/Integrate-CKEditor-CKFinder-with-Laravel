@@ -13,6 +13,8 @@ Installation Guide:
       <script>
         CKEDITOR.replace( 'editor1' );
       </script>
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+      <script src="/ckeditor/ckeditor.js"></script>
       
 #4 In case of permission error, please run command from terminal:
       
